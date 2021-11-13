@@ -31,5 +31,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnptw&include_all_commits=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnptw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tnptw)](https://github.com/anuraghazra/github-readme-stats)
