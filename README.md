@@ -1,6 +1,6 @@
 ### Hi there, I'm Thanaphum 👋🏻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pparntt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpparntt&screen_name=pparntt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tnptw_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftnptw_&screen_name=tnptw_)
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
