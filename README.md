@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./assets/gh-header.jpg" /></a></p>
+<p align="center"><img width="80%" src="./assets/gh-header.jpg" /></p>
 
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
