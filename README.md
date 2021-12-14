@@ -1,7 +1,5 @@
 ### Hi there, I'm Thanaphum 👋🏻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tnptw_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftnptw_&screen_name=tnptw_)
-
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
 - 🌱 I’m currently learning C++, Java.
@@ -33,8 +31,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tnptw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thanaphum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnptw&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br />
-<br />
 
 <a href="https://twitter.com/tnptw_">
   <img align="right" alt="Thanaphum Thepwan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
