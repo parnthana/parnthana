@@ -23,6 +23,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/hugovk/python-logos/blob/master/img/Python.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
 <img align="left" alt="Java" width="20px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" />
+<img align="left" alt="Java" width="20px" src="https://github.com/archlinux/.github/blob/main/profile/archlinux-logo-dark-scalable.svg" />
 
 
 <br />
