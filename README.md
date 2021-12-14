@@ -20,10 +20,11 @@
 <img align="left" alt="CMake" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" />
+<img align="left" alt="Arch Linux" width="80px" src="https://github.com/archlinux/.github/blob/main/profile/archlinux-logo-dark-scalable.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/hugovk/python-logos/blob/master/img/Python.png" />
 <img align="left" alt="C++" width="26px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
 <img align="left" alt="Java" width="20px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" />
-<img align="left" alt="Arch Linux" width="80px" src="https://github.com/archlinux/.github/blob/main/profile/archlinux-logo-dark-scalable.svg" />
+
 
 
 <br />
