@@ -1,4 +1,6 @@
-### Hi there, I'm Thanaphum 👋🏻
+<p align="center"><img width="80%" src="./assets/github-header.png" /></a></p>
+
+<br />
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
