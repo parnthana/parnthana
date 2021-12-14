@@ -30,6 +30,9 @@
 <br />
 <br />
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tnptw&repo=github-readme-stats" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnptw&include_all_commits=true&show_icons=true&custom_title="TTW's Stats")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnptw&include_all_commits=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnptw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
