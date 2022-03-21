@@ -3,7 +3,7 @@
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
-- 🌱 I’m currently learning C++, Java.
+- 🌱 I’m currently learning C++, Scala.
 - ⚡ Fun fact: I love to play games.
 - 👀 I’m interested in HTML, CSS, JS.
 
