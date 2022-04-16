@@ -3,10 +3,6 @@
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
-- 🌱 I’m currently learning C++, Scala.
-- ⚡ Fun fact: I love to play games.
-- 👀 I’m interested in HTML, CSS, JS.
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
