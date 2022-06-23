@@ -1,7 +1,7 @@
 <p align="center"><img width="80%" src="./assets/gh-header.jpg" /></p>
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&color=FC365D&center=true&lines="You+can+always+be+better.")](https://git.io/typing-svg)
-</p>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?size=15&color=FC365D&center=true&lines="You+can+always+be+better.""/></a>
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
 ### Languages and Tools:
