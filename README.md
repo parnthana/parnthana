@@ -1,7 +1,7 @@
 <p align="center"><img width="80%" src="./assets/gh-header.jpg" /></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Thanaphum!;A+3rd+year+student&font=JetBrains%20Mono&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Thanaphum!;A+3rd+year+student.&font=JetBrains%20Mono&center=true&color=FC365D&width=380&height=50">
 </p>
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
