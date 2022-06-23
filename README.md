@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=You+can+always+be+better.&font=JetBrains%20Mono&center=true&color=FC365D&width=380&height=50">
 </p>
-
----
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
