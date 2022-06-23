@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" src="./assets/gh-header-pic.jpg" /></p>
 
-## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
+### I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=You+can+always+be+better.&font=JetBrains%20Mono&center=true&color=FC365D&width=380&height=50">
