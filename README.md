@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" src="./assets/gh-header.jpg" /></p>
+<p align="center"><img width="80%" src="./assets/gh-header-pic.jpg" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=You+can+always+be+better.&font=JetBrains%20Mono&center=true&color=FC365D&width=380&height=50">
