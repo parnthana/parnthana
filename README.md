@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" src="./assets/gh-header.jpg" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&duration=3000&color=FC365D&lines=%22You+can+always+be+better.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FC365D&center=true&lines="Don't+be+a+programmer%EF%BC%8C+Be+a+problem+solver.")](https://git.io/typing-svg)
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
