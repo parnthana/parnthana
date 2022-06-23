@@ -1,5 +1,5 @@
 <p align="center"><img width="80%" src="./assets/gh-header.jpg" /></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=fc365d&lines=%22You+can+always+be+better.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=FC365D&lines=%22You+can+always+be+better.%22)](https://git.io/typing-svg)
 
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
