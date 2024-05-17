@@ -26,7 +26,7 @@
 <br />
 <br />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tnptw&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thanaphum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnptw&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnthana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thanaphum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnthana&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://twitter.com/tnptw_">
