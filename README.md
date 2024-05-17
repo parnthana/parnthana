@@ -1,5 +1,3 @@
-<p align="center"><img width="80%" src="./assets/gh-header-pic.jpg" /></p>
-
 ## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
 
 <!-- <p align="center">
