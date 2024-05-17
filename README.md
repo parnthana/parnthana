@@ -10,6 +10,10 @@
 ⚡ Fun fact: I love Bowling🎳!
 </div>
 
+## Experiences
+- Website Development 💻
+- Mobile Development 📱
+
 ## Languages and Tools:
 <br/>
 <div>
