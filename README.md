@@ -5,22 +5,31 @@
 </p> -->
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img align="left" alt="CLion" width="26px" src="https://github.com/JetBrains/logos/blob/master/web/clion/clion.svg" />
-<img align="left" alt="IntelliJIDEA" width="26px" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" />
-<img align="left" alt="Pycharm" width="26px" src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" />
-<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
-<img align="left" alt="Eclipse" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/eclipse-logo-vector.svg" />
-<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="CMake" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" />
-<img align="left" alt="Arch Linux" width="80px" src="https://github.com/archlinux/.github/blob/main/profile/archlinux-logo-dark-scalable.svg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/hugovk/python-logos/blob/main/img/Python.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
-<img align="left" alt="Java" width="20px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" />
-
+<div>
+<img alt="Python" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"/>&nbsp; 
+<img alt="C++" width="40px" height="40px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />&nbsp;
+<img alt="Java" width="40px" height="40px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" />&nbsp;
+<img alt="Scala" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img alt="Vim" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />&nbsp;
+<img alt="Visual Studio Code" width="40px" height="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
+<img alt="Jira" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />&nbsp;
+<img alt="Confluence" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />&nbsp;
+</div>
 <br />
 <br />
 
