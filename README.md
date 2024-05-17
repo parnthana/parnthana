@@ -1,10 +1,17 @@
-## I’m a Computer Engineering Student @ Chulalongkorn University 🎓
+# Hi👋
+- I'm Thanaphum T. (Parn) 😊
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=You+can+always+be+better.&font=JetBrains%20Mono&center=true&color=FC365D&width=380&height=50">
-</p> -->
+## About me
+<div>
+🎓 Education: Computer Engineering Student @ Chulalongkorn University
+<br/>
+🌱 Learning: Go
+<br/>
+⚡ Fun fact: I love Bowling🎳!
+</div>
 
-### Languages and Tools:
+## Languages and Tools:
+<br/>
 <div>
 <img alt="Python" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"/>&nbsp; 
 <img alt="C++" width="40px" height="40px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />&nbsp;
@@ -20,6 +27,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
+<br/>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -27,10 +37,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img alt="Vim" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />&nbsp;
 <img alt="Visual Studio Code" width="40px" height="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />&nbsp;
+<img alt="Figma" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />&nbsp;
 <img alt="Jira" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />&nbsp;
 <img alt="Confluence" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />&nbsp;
 </div>
 <br />
+
 <br />
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnthana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thanaphum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnthana&layout=compact&theme=buefy&hide_border=true" /></a> |
