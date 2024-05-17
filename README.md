@@ -52,6 +52,10 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnthana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thanaphum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnthana&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://twitter.com/tnptw_">
-  <img align="right" alt="Thanaphum Thepwan | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+
+  
+<a href="mailto:thanaphum.tw@gmail.com?">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/parnthana">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://twitter.com/parnthana_">
+  ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 </a>
