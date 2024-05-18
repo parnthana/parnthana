@@ -45,8 +45,11 @@
 <img alt="Jira" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />&nbsp;
 <img alt="Confluence" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />&nbsp;
 </div>
-<br />
 
+### Upcoming:
+
+<img alt="Go" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />&nbsp;
+<img alt="Swift" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" />&nbsp;
 <br />
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parnthana&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Thanaphum's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnthana&layout=compact&theme=buefy&hide_border=true" /></a> |
