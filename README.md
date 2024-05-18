@@ -5,7 +5,7 @@
 <div>
 🎓 Education: Computer Engineering Student @ Chulalongkorn University
 <br/>
-🌱 Learning: Go
+🌱 Learning: Go, iOS & Swift
 <br/>
 ⚡ Fun fact: I love Bowling🎳!
 </div>
